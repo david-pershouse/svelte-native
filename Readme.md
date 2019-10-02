@@ -74,6 +74,8 @@ svelteNative(App, {msg: "Hi from launcher"});
 ## Credits
 
 The DOM implementation is based on the one from Nativescript-Vue. Thanks!
-The API Docs were ported from the Nativescript-Vue Too
-The Site Design is from SvelteJS
+
+The API documentation was originally ported from the Nativescript-Vue site.
+
+The site design is from SvelteJS
 
